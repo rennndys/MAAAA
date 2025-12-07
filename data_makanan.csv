@@ -1,409 +1,409 @@
-id_menu,tipe_item,nama_makanan,tipe_makanan,tipe_menu_ringan,tipe_minuman,tipe_rasa,tipe_karbohidrat,tipe_protein,lokasi,nama_kantin,harga,rating
-1,Makanan,Donat,Ringan,Kue Kering,,Manis,Kentang,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-2,Makanan,Donat Palm,Ringan,Kue Kering,,Manis,Kentang,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-3,Makanan,Risol Mayo,Ringan,Gorengan,,Gurih,,Telur Ayam,Mushola dan Studio Kriya,Kantin Ibu Eneng,3500,
-4,Makanan,Sus Fla Vanilla,Ringan,Kue Basah,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-5,Makanan,Pastel,Ringan,Gorengan,,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-6,Makanan,Karoket,Ringan,Gorengan,,Gurih,,Daging Sapi,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-7,Makanan,Bala-Bala,Ringan,Gorengan,,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,
-8,Makanan,Gehu Pedas,Ringan,Gorengan,,Pedas,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,
-9,Makanan,Bolen,Ringan,Pastry,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-10,Makanan,Odading,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,
-11,Makanan,Molen Pisang,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,
-12,Makanan,Cakue,Ringan,Gorengan,,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,
-13,Makanan,Piscok,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-14,Makanan,Cireng,Ringan,Gorengan,,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-15,Makanan,Keju Goreng,Ringan,Gorengan,,Asin,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,
-16,Makanan,Karoket Besar,Ringan,Gorengan,,Gurih,,Daging Sapi,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-17,Makanan,Cibay,Ringan,Gorengan,,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-18,Makanan,Onde,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-19,Makanan,Roti Aoka,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,4000,
-20,Makanan,Roti Okko,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,4000,
-21,Makanan,Roti Sandwich,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-22,Makanan,Roti Gulung,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-23,Makanan,Moon Cake,Ringan,Kue Kering,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-24,Makanan,Sosis Solo,Ringan,Gorengan,,Gurih,,Daging Sapi,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-25,Makanan,Gabin Tape,Ringan,Kue Kering,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-26,Minuman,Kopi ABC,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-27,Minuman,Tora Cafe,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-28,Minuman,Kapal Api,,,Panas,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-29,Minuman,Goodday,,,Panas,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-30,Minuman,Nescafe Kaleng,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-31,Minuman,Nescafe Dus,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-32,Minuman,Minola,,,Netral,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,
-33,Minuman,Le Mineral,,,Netral,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-34,Minuman,Nipis Madu,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-35,Minuman,Teh Botol Sosro,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,
-36,Minuman,Teh Kotak,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-37,Minuman,Floridina,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-38,Minuman,Teh Pucuk,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-39,Minuman,Minute Maid,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,
-40,Minuman,Hydro Coco,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-41,Minuman,Pocari Sweat,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-42,Minuman,Susu Ultra 250 ml,,,Dingin,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-43,Minuman,Susu Ultra 200 ml,,,Dingin,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-44,Minuman,Susu Kacang Hijau,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-45,Minuman,Nutri Boost,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-46,Minuman,Mizone,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-47,Minuman,Sprite,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,
-48,Minuman,Coca Cola,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,
-49,Minuman,Kopiko 78,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-50,Minuman,Kopiko Lucky Day,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-51,Minuman,Thai Tea,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-52,Minuman,Hanaang,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-53,Minuman,Susu Bear Brand,,,Dingin,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,11000,
-54,Minuman,Susu Kurma,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,10000,
-55,Minuman,Milo ,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,
-56,Minuman,Fruit Tea,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-57,Minuman,Fresh Tea,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-58,Minuman,Cimory,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,
-59,Minuman,Iso Plus,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,
-60,Minuman,Teh Gelas,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,4000,
-61,Makanan,Nasi Goreng,Berat,,,Gurih,Nasi,Telur Ayam,Labtek V A,Warung CIhuy,15000,
-62,Makanan,Spageti,Berat,,,Gurih,Mie,Daging Sapi,Labtek V A,Warung CIhuy,20000,
-63,Makanan,Kwetiau,Berat,,,Gurih,Mie,Telur Ayam,Labtek V A,Warung CIhuy,15000,
-64,Makanan,Mie Goreng,Berat,,,Gurih,Mie,Telur Ayam,Labtek V A,Warung CIhuy,15000,
-65,Minuman,Jus Mangga,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,
-66,Minuman,Jus Alpukat,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,
-67,Minuman,Jus Buah Naga,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,
-68,Minuman,Jus Jeruk,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-69,Minuman,Jus Tomat,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-70,Minuman,Jus Melon,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-71,Minuman,Jus Apel,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-72,Minuman,Jus Wortel,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-73,Minuman,Jus Belimbing,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-74,Minuman,Jus Nanas,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-75,Minuman,Jus Jambu,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,
-76,Minuman,Jus Strawberry,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,
-77,Makanan,Mie Daging Ayam Jamur,Berat,,,Gurih,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,
-78,Makanan,Mie Daging Ayam Chili Oil,Berat,,,Pedas,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,
-79,Makanan,Mie Daging Ayam Rica,Berat,,,Pedas,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,
-80,Makanan,Mie Baso Yamin,Berat,,,Gurih,Mie,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,17000,
-81,Makanan,Mie Daging Ayam Kuah Kari ,Berat,,,Gurih,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,17000,
-82,Makanan,Mie Baso Kuah ,Berat,,,Gurih,Mie,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,17000,
-83,Makanan,Gioza,Ringan,Snack Tepung,,Gurih,,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,
-84,Makanan,Seblak,Berat,,,Gurih,,Telur Ayam,Labtek III (KOICA),Kantin Bu Dera,14000,
-85,Makanan,Cilok Kuah,Ringan,Snack Tepung,,Pedas,,,Labtek III (KOICA),Kantin Bu Dera,10000,
-86,Makanan,Cilok Chili Oil,Ringan,Snack Tepung,,Gurih,,,Labtek III (KOICA),Kantin Bu Dera,10000,
-87,Makanan,Cilok Bumbu Kacang,Ringan,Snack Tepung,,Gurih,,,Labtek III (KOICA),Kantin Bu Dera,10000,
-88,Makanan,Baso Kecil,Ringan,Snack Tepung,,Gurih,,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,10000,
-89,Makanan,Baso Cincang Besar,Berat,,,Gurih,,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,2000,
-90,Makanan,Mie Kocok,Berat,,,Gurih,Mie,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,17000,
-91,Makanan,Cuanki,Berat,,,Gurih,,Tahu,Labtek III (KOICA),Kantin Bu Dera,15000,
-92,Makanan,Nasi Goreng Warga,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,20000,
-93,Makanan,Nasi Goreng Hejo,Berat,,,Pedas,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,20000,
-94,Makanan,Nasi Goreng Minang,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,17000,
-95,Makanan,Nasi Goreng Mawut,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,20000,
-96,Makanan,Ricebowl (Daging Ayam Mattah),Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,
-97,Makanan,Ricebowl (Daging Ayam Donbori),Berat,,,Asin,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,
-98,Makanan,Ricebowl (Daging Ayam Asam Manis),Berat,,,Manis,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,
-99,Makanan,Ricebowl (Daging Ayam Rica-Rica),Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,
-100,Makanan,Mie Goreng (Daging Ayam Cincang),Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,20000,
-101,Makanan,Mie Goreng (Daging Ayam Katsu),Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,28000,
-102,Makanan,Mie Goreng (Daging Ayam Geprek),Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,28000,
-103,Makanan,Mie Godog,Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,20000,
-104,Makanan,Nasi Soto Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,20000,
-105,Makanan,Nasi Bakar Daging Ayam Kemangi,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,20000,
-106,Makanan,Nasi Daging Ayam Geprek,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,20000,
-107,Makanan,Donat,Ringan,Snack Tepung,,Manis,,,Asrama TB III,Kantin Warga,4000,
-108,Makanan,Churros,Ringan,Snack Tepung,,Manis,,,Asrama TB III,Kantin Warga,20000,
-109,Makanan,Cookies,Ringan,Snack Tepung,,Manis,,,Asrama TB III,Kantin Warga,22000,
-110,Makanan,Cireng Bumbu Rujak,Ringan,Gorengan,,Pedas,,,Asrama TB III,Kantin Warga,17000,
-111,Makanan,Batagor Kering,Ringan,Gorengan,,Pedas,,,Asrama TB III,Kantin Warga,17000,
-112,Makanan,Batagor Kuah,Ringan,Gorengan,,Pedas,,,Asrama TB III,Kantin Warga,17000,
-113,Makanan,Frenc Fries (Original),Ringan,Gorengan,,Gurih,Kentang,,Asrama TB III,Kantin Warga,13000,
-114,Makanan,Frenc Fries (Bolognaise),Ringan,Gorengan,,Gurih,Kentang,,Asrama TB III,Kantin Warga,20000,
-115,Makanan,Frenc Fries (Cheesel),Ringan,Gorengan,,Gurih,Kentang,,Asrama TB III,Kantin Warga,20000,
-116,Makanan,Frenc Fries (Chicken Katsu),Ringan,Gorengan,,Gurih,Kentang,Daging Ayam,Asrama TB III,Kantin Warga,28000,
-117,Makanan,Curry Samosa,Ringan,Gorengan,,Gurih,,,Asrama TB III,Kantin Warga,20000,
-118,Makanan,Risoles,Ringan,Gorengan,,Gurih,,,Asrama TB III,Kantin Warga,6000,
-119,Minuman,Matcha Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,
-120,Minuman,Thai Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,
-121,Minuman,Milkshake Vanila,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,
-122,Minuman,Milkshake Strawberry,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-123,Minuman,Ice Matcha Berry,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,22000,
-124,Minuman,Ice Matcha Berry,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,22000,
-125,Minuman,Black Coffee,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,17000,
-126,Minuman,Iced Latte,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,20000,
-127,Minuman,Es Kopi Woles,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,20000,
-128,Minuman,Es Kopi Cenghar,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,20000,
-129,Minuman,Iced Vanilla Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-130,Minuman,Iced Caramel Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-131,Minuman,Iced Hazelnut Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-132,Minuman,Iced Coffee Lemonade,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,24000,
-133,Minuman,Basic Tea,,,Dingin,Netral,,,Asrama TB III,Kantin Warga,3000,
-134,Minuman,Sweet Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,6000,
-135,Minuman,Lemon Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,12000,
-136,Minuman,Teh Tarik,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,
-137,Minuman,Peach Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-138,Minuman,Lyhee Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-139,Minuman,Smoothies (Strawberry),,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-140,Minuman,Smoothies (Creamy Mango),,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,
-141,Minuman,Smoothies (Orange),,,Dingin,Manis,,,Asrama TB III,Kantin Warga,16000,
-142,Makanan,Nasi Kuning Telur Ayam Balado,Berat,,,Netral,Nasi,Telur Ayam,Asrama TB III,Kedai Agronic,18000,
-143,Makanan,Nasi Uduk Telur Ayam Balado,Berat,,,Netral,Nasi,Telur Ayam,Asrama TB III,Kedai Agronic,18000,
-144,Makanan,Nasi Tutug Oncom Komplit,Berat,,,Netral,Nasi,Tahu,Asrama TB III,Kedai Agronic,15000,
-145,Makanan,Nasi Tutug Oncom Daging Ayam Komplit,Berat,,,Netral,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-146,Makanan,Nasi Daging Ayam Madu Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-147,Makanan,Nasi Daging Ayam Kremes Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-148,Makanan,Nasi Daging Ayam Garlic Paket Kompilt,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-149,Makanan,Nasi Daging Ayam Ketumbar Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-150,Makanan,Nasi Daging Ayam Sereh Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-151,Makanan,Nasi Chicken Popcorn,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-152,Makanan,Nasi Kulit Daging Ayam Crispy,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,18000,
-153,Makanan,Nasi Korea (Daging Ayam/Cumi/Udang),Berat,,,Gurih,Nasi,Seafood,Asrama TB III,Kedai Agronic,20000,
-154,Makanan,Chicken Crispy Steak,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-155,Makanan,Chicken Steak Saus Mushroom,Berat,,,Netral,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-156,Makanan,Chicken Kordon Blue,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-157,Makanan,Nasi Sate Taican,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-158,Makanan,Nasi Sate Bumbu Kacang,Berat,,,Netral,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-159,Makanan,Mie Goreng Katsu,Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-160,Makanan,Mie Nyemek Special,Berat,,,Gurih,Mie,Telur Ayam,Asrama TB III,Kedai Agronic,17000,
-161,Makanan,Mie Nyemek Seafood,Berat,,,Gurih,Mie,Seafood,Asrama TB III,Kedai Agronic,20000,
-162,Makanan,Mie Nyemek Premium,Berat,,,Gurih,Mie,Seafood,Asrama TB III,Kedai Agronic,22000,
-163,Makanan,Kwetiau Special,Berat,,,Gurih,Mie,Telur Ayam,Asrama TB III,Kedai Agronic,20000,
-164,Makanan,Kwetiau Seafood,Berat,,,Gurih,Mie,Seafood,Asrama TB III,Kedai Agronic,22000,
-165,Makanan,Aneka Gorengan,Ringan,,,Gurih,,,Asrama TB III,Kedai Agronic,2000,
-166,Makanan,Cilok (Bumbu Kacang/Kuah),Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,6000,
-167,Makanan,Pempek (Isi 3),Ringan,,,Asam,,,Asrama TB III,Kedai Agronic,6000,
-168,Makanan,Cirawang Pentol,Ringan,,,Pedas,,,Asrama TB III,Kedai Agronic,6000,
-169,Makanan,Baso Tahu Bandung (Isi 4),Ringan,,,Gurih,,,Asrama TB III,Kedai Agronic,6000,
-170,Makanan,Basreng Daun Jeruk,Ringan,,,Gurih,,,Asrama TB III,Kedai Agronic,6000,
-171,Makanan,French Fries,Ringan,,,Gurih,Kentang,,Asrama TB III,Kedai Agronic,6000,
-172,Makanan,Pisang Selimut,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-173,Makanan,Nasi Soto Daging Ayam Lamongan,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,
-174,Makanan,Nasi Soto Bandung,Berat,,,Gurih,Nasi,Daging Sapi,Asrama TB III,Kedai Agronic,20000,
-175,Minuman,Es Teler Creamy,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-176,Minuman,Es Kelapa Muda,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-177,Minuman,Es Kelapa Alpukat,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-178,Minuman,Es Jeruk,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-179,Minuman,Juice Buah Naga,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-180,Minuman,Juice Mulberry,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-181,Minuman,Juice Pisang,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-182,Minuman,Juice Mangga,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-183,Minuman,Juice Strawberry,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-184,Minuman,Juice Melon,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-185,Minuman,Juice Alpukat,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-186,Minuman,Juice Tomat,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-187,Minuman,Yoghurt Mulbery,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-188,Minuman,Yoghurt Strawberry,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-189,Minuman,Yoghurt Buah Naga,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-190,Minuman,Lemon Ice/Hot,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,
-191,Minuman,Yoghurt Mangga,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-192,Minuman,Salad Strawberry Saos Coklat,Ringan,Desert,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-193,Minuman,Salad Buah Saus Yoghurt,Ringan,Desert,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,
-194,Makanan,Semur Daging Daging Sapi,Berat,,,Manis,Nasi,Daging Sapi,Asrama TB II,Waroeng Soejo,20000,
-195,Makanan,Kari Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-196,Makanan,Chicken Karage,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-197,Makanan,Daging Ayam Goreng,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-198,Makanan,Daging Ayam Pop,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-199,Makanan,Daging Ayam Serundeng,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-200,Makanan,Daging Ayam Balado,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-201,Makanan,Rica-Rica Daging Ayam,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-202,Makanan,Daging Ayam Bakar Bumbu Padang,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-203,Makanan,Daging Ayam Bakar Kecap,Berat,,,Manis,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-204,Makanan,Daging Ayam Bakar Madu,Berat,,,Manis,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-205,Makanan,Daging Ayam Mentega,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-206,Makanan,Daging Ayam Teriyaki,Berat,,,Manis,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-207,Makanan,Daging Ayam Katsu,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-208,Makanan,Daging Ayam Lada Hitam,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,
-209,Makanan,Telur Ayam Balado,Berat,,,Pedas,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,6000,
-210,Makanan,Telur Ayam Dadar,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,6000,
-211,Makanan,Telur Ayam Ceplok,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,6000,
-212,Makanan,Dadar Tahu,Berat,,,Gurih,Nasi,Tahu,Asrama TB II,Waroeng Soejo,8000,
-213,Makanan,Dadar Daging Daging Sapi,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,18000,
-214,Makanan,Dadar Daging Ayam,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,15000,
-215,Makanan,Sayur Asem,Berat,,,Asam,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-216,Makanan,Sayur Sop,Berat,,,Gurih,Sayur,Daging Ayam,Asrama TB II,Waroeng Soejo,6000,
-217,Makanan,Cah Kangkung,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-218,Makanan,Cap Cay,Berat,,,Gurih,Sayur,Daging Ayam,Asrama TB II,Waroeng Soejo,6000,
-219,Makanan,Cah Pokcoy Tahu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,
-220,Makanan,Cah Tauge Tahu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,
-221,Makanan,Tumis Daun Singkong,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-222,Makanan,Cah Brokoli,Berat,,,Netral,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-223,Makanan,Cah Kembang Kol,Berat,,,Netral,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-224,Makanan,Lodeh Daun Singkong,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-225,Makanan,Lodeh Tahu Tempe Labu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,
-226,Makanan,Terong Balado,Berat,,,Pedas,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-227,Makanan,Cah Jamur,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-228,Makanan,Cah Sawi Hijau Tahu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,
-229,Makanan,Tumis Buncis Wortel,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-230,Makanan,Tumis Tempe Kacang Panjang,Berat,,,Gurih,Sayur,Tempe,Asrama TB II,Waroeng Soejo,6000,
-231,Makanan,Kangkung Goreng Crispy,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-232,Makanan,Sayur Pecel,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-233,Makanan,Oseng Daun Pepaya,Berat,,,Pahit,Sayur,,Asrama TB II,Waroeng Soejo,6000,
-234,Makanan,Nasi Goreng Kencur,Berat,,,Gurih,Kentang,,GKU II,Kanting Rengganis,20000,
-235,Makanan,Nasi Goreng Rendang,Berat,,,Gurih,Kentang,Telur Ayam,GKU II,Kanting Rengganis,20000,
-236,Makanan,Nasi Goreng Kampung,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kanting Rengganis,20000,
-237,Makanan,Nasi Goreng Kari,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kanting Rengganis,20000,
-238,Makanan,Nasi Goreng Mawut,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Kanting Rengganis,20000,
-239,Makanan,Mie Tek-Tek,Berat,,,Gurih,Mie,Telur Ayam,GKU II,Kanting Rengganis,20000,
-240,Makanan,Kwetiaw,Berat,,,Gurih,Mie,Telur Ayam,GKU II,Kanting Rengganis,20000,
-241,Makanan,Nasi Rawon,Berat,,,Manis,Nasi,Daging Sapi,GKU II,Kanting Rengganis,20000,
-242,Makanan,Nasi + Sate Taichan,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,
-243,Makanan,Nasi + Sate Kacang,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,
-244,Makanan,Nasi + Daging Ayam Bumbu Hitam,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,
-245,Makanan,Nasi + Daging Ayam Sambal Bakar,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,
-246,Makanan,Nasi + Telor Dadar Kuah Gule,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kantin Sate Madu,15000,
-247,Makanan,Nasi + Soto Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,
-248,Makanan,Nasi + Soto Daging Sapi,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Kantin Sate Madu,18000,
-249,Makanan,Nasi + Tongseng Daging Ayam,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Kantin Sate Madu,18000,
-250,Makanan,Nasi + Tongseng Daging Sapi,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,
-251,Makanan,Nasi Bakar Komplit,Berat,,,Manis,Nasi,Daging Sapi,GKU II,Lentera Moza,20000,
-252,Makanan,Bakmi Yamin Manis/Asin,Berat,,,Manis,Mie,Daging Sapi,GKU II,Lentera Moza,18000,
-253,Makanan,Dimsum Kuah Creamy,Ringan,,,Gurih,,,GKU II,Lentera Moza,20000,
-254,Makanan,Dimsum,Ringan,,,Gurih,,,GKU II,Lentera Moza,13000,
-255,Makanan,Spaghetti Lumer,Berat,,,Gurih,Mie,Daging Ayam,GKU II,Lentera Moza,15000,
-256,Makanan,Pempek,Berat,,,Asam,Nasi,Daging Ayam,GKU II,Lentera Moza,12000,
-257,Makanan,Lumpia Biasa,Berat,,,Manis,Sayur,Telur Ayam,GKU II,Lentera Moza,12000,
-258,Makanan,Lumpia Spesial,Berat,,,Manis,Sayur,Telur Ayam,GKU II,Lentera Moza,15000,
-259,Makanan,Baso Tahu Endolita,Berat,,,Gurih,,Tahu,GKU II,Lentera Moza,12000,
-260,Makanan,Pisang Keju Biasa,Ringan,,,Manis,,,GKU II,Lentera Moza,12000,
-261,Makanan,Pisang Keju Jumbo,Ringan,,,Manis,,,GKU II,Lentera Moza,15000,
-262,Makanan,Rice Bowl,Berat,,,Gurih,Mie,Daging Ayam,GKU II,Lentera Moza,15000,
-263,Makanan,Spageti Cincang Daging Ayam + Sosis Lumer,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Lentera Moza,15000,
-264,Makanan,Mie Bakso,Berat,,,Gurih,Mie,Daging Sapi,GKU II,Kantin Toony,15000,
-265,Makanan,Mie Daging Ayam,Berat,,,Gurih,Mie,Daging Ayam,GKU II,Kantin Toony,15000,
-266,Makanan,Mie Daging Ayam Bakso (kecil),Berat,,,Gurih,Mie,Daging Ayam,GKU II,Kantin Toony,20000,
-267,Makanan,Mie Daging Ayam Bakso (besar),Berat,,,Gurih,Mie,Daging Ayam,GKU II,Kantin Toony,25000,
-268,Makanan,Indomie Goreng,Berat,,,Manis,Mie,,GKU II,Kantin Toony,8000,
-269,Makanan,Indomie Kuah,Berat,,,Gurih,Mie,,GKU II,Kantin Toony,8000,
-270,Makanan,Indomie + Telur Ayam,Berat,,,Gurih,Mie,Telur Ayam,GKU II,Kantin Toony,12000,
-271,Makanan,Batagor Bumbu Kacang,Ringan,,,Manis,,,GKU II,Kantin Toony,12000,
-272,Makanan,Batagor Kuah,Ringan,,,Gurih,,,GKU II,Kantin Toony,12000,
-273,Makanan,Cilok Goang,Ringan,,,Pedas,,,GKU II,Kantin Toony,12000,
-274,Makanan,Cilok Kuah,Ringan,,,Gurih,,,GKU II,Kantin Toony,12000,
-275,Makanan,Basreng,Ringan,,,Gurih,,,GKU II,Kantin Toony,10000,
-276,Makanan,Pangsit Kuah,Ringan,,,Gurih,,,GKU II,Kantin Toony,12000,
-277,Makanan,Seblak,Ringan,,,Manis,,,GKU II,Kantin Toony,12000,
-278,Makanan,Dimsum,Ringan,,,Asam,,,GKU II,Kantin Toony,12000,
-279,Makanan,Wongton,Ringan,,,Asam,,,GKU II,Kantin Toony,12000,
-280,Makanan,Pop Mie,Ringan,,,Asam,,,GKU II,Kantin Toony,10000,
-281,Makanan,Chicken Katsu,Berat,,,Gurih,,Daging Ayam,GKU II,Krenzz Fried Chicken,12000,
-282,Makanan,Chicken Katsu + Nasi,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,
-283,Makanan,Dadar Nasi Sambal,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,12000,
-284,Makanan,Dadar Nasi Sambal Oseng Cumi,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,18000,
-285,Makanan,Dadar Nasi Sambal Daging Ayam Suwir,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,18000,
-286,Makanan,Dadar Nasi Sambal Ati Ampela,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,18000,
-287,Makanan,Daging Ayam Geprek Dada + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,
-288,Makanan,Daging Ayam Geprek Paha Atas + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,
-289,Makanan,Daging Ayam Geprek Sayap + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-290,Makanan,Daging Ayam Geprek Paha Bawah + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-291,Makanan,Chicken Sambal,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,
-292,Makanan,Chicken Dada,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,14000,
-293,Makanan,Chicken Paha Atas,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,14000,
-294,Makanan,Chicken + Nasi,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-295,Makanan,Chicken Taliwang,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,
-296,Makanan,Chicken Pedas,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-297,Makanan,Chicken Sweet Chili,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-298,Makanan,Chicken Black Pepper,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-299,Makanan,Krenz Nasi Indo Beef,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Krenzz Fried Chicken,18000,
-300,Makanan,Krenz Nasi Indo Chicken,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,
-301,Makanan,Krenz Nasi Indo Katsu,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,
-302,Makanan,Krenz Nasi Teri,Berat,,,Gurih,Nasi,Seafood,GKU II,Krenzz Fried Chicken,12000,
-303,Makanan,Spageti Original,Berat,,,Gurih,Mie,,GKU II,Krenzz Fried Chicken,10000,
-304,Makanan,Spageti Tofu,Berat,,,Netral,Mie,Tahu,GKU II,Krenzz Fried Chicken,12000,
-305,Makanan,Spageti + Chicken,Berat,,,Netral,Mie,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,
-306,Makanan,Rice Bowl Chicken,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,17000,
-307,Makanan,Rice Bowl Beef,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Krenzz Fried Chicken,20000,
-308,Makanan,Rice Bowl Chicken Tofu,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,
-309,Makanan,Nashville Hot Chicken,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,20000,
-310,Makanan,Chicken Steak,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,20000,
-311,Makanan,Kebab Chicken & Beef,Berat,,,Pedas,Olahan Tepung,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,
-312,Makanan,Burger Chicken & Beef,Berat,,,Pedas,Olahan Tepung,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,
-313,Makanan,Rice Bowl Chicken,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,17000,
-314,Makanan,Nasi Kepal Chicken Slice,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,10000,
-315,Makanan,Chicken Sauce with Mozarella Cheese,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,20000,
-316,Makanan,Nasi Soto Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Bagas,12000,
-317,Makanan,Nasi Telur Ayam Gimbal,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kantin Bagas,10000,
-318,Makanan,Nasi Telur Ayam Gimbal Daging Ayam Suwir,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kantin Bagas,15000,
-319,Makanan,Nasi Telur Ayam Gimbal Cakalang,Berat,,,Gurih,Nasi,Seafood,GKU II,Kantin Bagas,15000,
-320,Makanan,Nasi Telur Ayam Gimbal Cumi Pedas,Berat,,,Gurih,Nasi,Seafood,GKU II,Kantin Bagas,15000,
-321,Makanan,Nasi Daging Ayam Kipas,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Bagas,15000,
-322,Makanan,Nasi Daging Ayam Lada Garam,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Kantin Bagas,15000,
-323,Makanan,Nasi Daging Ayam Wijen,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Kantin Bagas,15000,
-324,Makanan,Nasi Daging Ayam Krisbar,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Kantin Bagas,17000,
-325,Makanan,Nasi Cokot Daging Ayam Suwir,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Bagas,12000,
-326,Makanan,Nasi Cokot Cakalang,Berat,,,Gurih,Nasi,Seafood,GKU II,Kantin Bagas,12000,
-327,Makanan,Nasi Cokot Cumi Pedas,Berat,,,Pedas,Nasi,Seafood,GKU II,Kantin Bagas,12000,
-328,Minuman,Hot Kopi Gula Aren,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,
-329,Minuman,Ice Kopi Gula Aren,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,
-330,Minuman,Hot Americano,Ringan,,Dingin,Pahit,,,GKU II,Jump/Start,13400,
-331,Minuman,Ice Americano,Ringan,,Dingin,Pahit,,,GKU II,Jump/Start,13400,
-332,Minuman,Hot Cappuccino,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,
-333,Minuman,Ice Cappuccino,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,
-334,Minuman,Hot Kopi Hitam,Ringan,,Panas,Pahit,,,GKU II,Jump/Start,8400,
-335,Minuman,Ice Kopi Hitam,Ringan,,Dingin,Pahit,,,GKU II,Jump/Start,8400,
-336,Minuman,Hot Kopi Susu,Ringan,,Panas,Manis,,,GKU II,Jump/Start,8400,
-337,Minuman,Ice Kopi Susu,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,8400,
-338,Minuman,Hot Cafe Latte,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,
-339,Minuman,Ice Cafe Latte,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,
-340,Minuman,Hot Cafe Mocha,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,
-341,Minuman,Ice Cafe Mocha,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,
-342,Minuman,Hot Piccolo Latte,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,
-343,Minuman,Espresso,Ringan,,Netral,Pahit,,,GKU II,Jump/Start,10400,
-344,Minuman,Jus Apel,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-345,Minuman,Jus Mangga,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,
-346,Minuman,Jus Wortel,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-347,Minuman,Jus Jeruk,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-348,Minuman,Jus Pisang,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-349,Minuman,Jus Alpukat,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,
-350,Minuman,Jus Jambu,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-351,Minuman,Jus Melon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-352,Minuman,Jus Lemon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-353,Minuman,Jus Pepaya,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-354,Minuman,Jus Nanas,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-355,Minuman,Jus Belimbing,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-356,Minuman,Jus Buah Naga,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,
-357,Minuman,Jus Strawberry,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,
-358,Minuman,Jus Sirsak,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-359,Minuman,Jus Semangka,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-360,Minuman,Jus Tomat,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,
-361,Minuman,Mix Juice 2 Varian,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,15000,
-362,Minuman,Mix Juice 3 Varian,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,
-363,Minuman,Pisang Ijo Melon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-364,Minuman,Pisang Ijo Strawberry,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-365,Minuman,Pisang Ijo Coco Pandan,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-366,Minuman,Mojito Sirup Lyche,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-367,Minuman,Mojito Sirup Melon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-368,Minuman,Mojito Sirup Strawberry,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-369,Minuman,Mojito Sirup Jeruk,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-370,Minuman,Susu Soda,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,
-371,Minuman,Espresso,Ringan,,Netral,Pahit,,,GKU II,Kedai Hijau,7000,
-372,Minuman,Flat White,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,15000,
-373,Minuman,Japanese,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,20000,
-374,Minuman,Filter V60,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,20000,
-375,Minuman,Affogato,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,15000,
-376,Minuman,Kopi Susu Gula Aren,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,
-377,Minuman,Machiato Caramel,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,
-378,Minuman,Berry Latte,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,
-379,Minuman,Orange Coffee,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,
-380,Minuman,Mocha (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,
-381,Minuman,Mocha (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,
-382,Minuman,Cappuccino (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,
-383,Minuman,Cappuccino (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,
-384,Minuman,Latte (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,
-385,Minuman,Latte (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,
-386,Minuman,Long Black (Hot),Ringan,,Panas,Pahit,,,GKU II,Kedai Hijau,15000,
-387,Minuman,Long Black (Iced),Ringan,,Dingin,Pahit,,,GKU II,Kedai Hijau,17000,
-388,Minuman,Matcha (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,
-389,Minuman,Matcha (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,
-390,Minuman,Coklatt (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,
-391,Minuman,Coklatt (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,
-392,Minuman,Redvelvet (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,
-393,Minuman,Redvelvet (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,
-394,Minuman,Hot Coffee,,,Panas,Pahit,,,GKU 3,KOTA,15000,
-395,Minuman,Classic Crush,,,Dingin,Manis,,,GKU 3,KOTA,20000,
-396,Minuman,Hot Coffee + Brownies,,,Panas,Pahit,,,GKU 3,KOTA,30000,
-397,Minuman,Palm Crush,,,Dingin,Manis,,,GKU 3,KOTA,25000,
-398,Minuman,Doppio Iced Shaken,,,Dingin,Manis,,,GKU 3,KOTA,30000,
-399,Minuman,Malmo,,,Dingin,Manis,,,GKU 3,KOTA,28000,
-400,Minuman,Vancouver,,,Dingin,Manis,,,GKU 3,KOTA,30000,
-401,Minuman,Paris,,,Dingin,Manis,,,GKU 3,KOTA,28000,
-402,Minuman,Espresso (Coffee),,,Panas,Manis,,,GKU 3,KOTA,18000,
-403,Minuman,Black (Coffee),,,Panas,Pahit,,,GKU 3,KOTA,23000,
-404,Minuman,White (Coffee),,,Panas,Pahit,,,GKU 3,KOTA,28000,
-405,Minuman,Lychee Tea,,,Dingin,Pahit,,,GKU 3,KOTA,25000,
-406,Minuman,Chocolate,,,Dingin,Manis,,,GKU 3,KOTA,28000,
-407,Minuman,Matcha,,,Dingin,Manis,,,GKU 3,KOTA,30000,
-408,Minuman,Mineral Water,,,Dingin,Netral,,,GKU 3,KOTA,5000,
+id_menu,tipe_item,nama_makanan,tipe_makanan,tipe_makanan_ringan,tipe_minuman,tipe_rasa,tipe_karbohidrat,tipe_protein,lokasi,nama_kantin,harga,rating
+1,Makanan,Donat,Ringan,Kue Kering,,Manis,Kentang,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,3.8
+2,Makanan,Donat Palm,Ringan,Kue Kering,,Manis,Kentang,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,4.4
+3,Makanan,Risol Mayo,Ringan,Gorengan,,Gurih,,Telur Ayam,Mushola dan Studio Kriya,Kantin Ibu Eneng,3500,4.8
+4,Makanan,Sus Fla Vanilla,Ringan,Kue Basah,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,3.8
+5,Makanan,Pastel,Ringan,Gorengan,,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,4.6
+6,Makanan,Karoket,Ringan,Gorengan,,Gurih,,Daging Sapi,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,2
+7,Makanan,Bala-Bala,Ringan,Gorengan,,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,3.6
+8,Makanan,Gehu Pedas,Ringan,Gorengan,,Pedas,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,4.4
+9,Makanan,Bolen,Ringan,Pastry,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,3.5
+10,Makanan,Odading,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,3
+11,Makanan,Molen Pisang,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,3.8
+12,Makanan,Cakue,Ringan,Gorengan,,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,1.1
+13,Makanan,Piscok,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,4
+14,Makanan,Cireng,Ringan,Gorengan,,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,2.6
+15,Makanan,Keju Goreng,Ringan,Gorengan,,Asin,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,2000,3.6
+16,Makanan,Karoket Besar,Ringan,Gorengan,,Gurih,,Daging Sapi,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,4.9
+17,Makanan,Cibay,Ringan,Gorengan,,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,3.9
+18,Makanan,Onde,Ringan,Gorengan,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,4.3
+19,Makanan,Roti Aoka,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,4000,4.1
+20,Makanan,Roti Okko,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,4000,3
+21,Makanan,Roti Sandwich,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,3.1
+22,Makanan,Roti Gulung,Ringan,Roti,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,4.9
+23,Makanan,Moon Cake,Ringan,Kue Kering,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,4
+24,Makanan,Sosis Solo,Ringan,Gorengan,,Gurih,,Daging Sapi,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,4.6
+25,Makanan,Gabin Tape,Ringan,Kue Kering,,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,0
+26,Minuman,Kopi ABC,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,3.6
+27,Minuman,Tora Cafe,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,3.8
+28,Minuman,Kapal Api,,,Panas,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,4.4
+29,Minuman,Goodday,,,Panas,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,0.6
+30,Minuman,Nescafe Kaleng,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,4
+31,Minuman,Nescafe Dus,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,4.8
+32,Minuman,Minola,,,Netral,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,3000,2.9
+33,Minuman,Le Mineral,,,Netral,Netral,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,3.3
+34,Minuman,Nipis Madu,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,4.2
+35,Minuman,Teh Botol Sosro,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,3
+36,Minuman,Teh Kotak,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,4.5
+37,Minuman,Floridina,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,1.2
+38,Minuman,Teh Pucuk,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,4.2
+39,Minuman,Minute Maid,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,2.8
+40,Minuman,Hydro Coco,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,4.5
+41,Minuman,Pocari Sweat,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,0
+42,Minuman,Susu Ultra 250 ml,,,Dingin,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,3.3
+43,Minuman,Susu Ultra 200 ml,,,Dingin,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,1.4
+44,Minuman,Susu Kacang Hijau,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,3
+45,Minuman,Nutri Boost,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,3.7
+46,Minuman,Mizone,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,0.1
+47,Minuman,Sprite,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,4.5
+48,Minuman,Coca Cola,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,6000,4.3
+49,Minuman,Kopiko 78,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,1.6
+50,Minuman,Kopiko Lucky Day,,,Dingin,Pahit,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,3.7
+51,Minuman,Thai Tea,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,2.6
+52,Minuman,Hanaang,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,4.7
+53,Minuman,Susu Bear Brand,,,Dingin,Gurih,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,11000,4.3
+54,Minuman,Susu Kurma,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,10000,0.9
+55,Minuman,Milo ,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,7000,2.8
+56,Minuman,Fruit Tea,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,1.9
+57,Minuman,Fresh Tea,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,4
+58,Minuman,Cimory,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,8000,4.4
+59,Minuman,Iso Plus,,,Dingin,Asam,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,5000,2.4
+60,Minuman,Teh Gelas,,,Dingin,Manis,,,Mushola dan Studio Kriya,Kantin Ibu Eneng,4000,3.7
+61,Makanan,Nasi Goreng,Berat,,,Gurih,Nasi,Telur Ayam,Labtek V A,Warung CIhuy,15000,4.7
+62,Makanan,Spageti,Berat,,,Gurih,Mie,Daging Sapi,Labtek V A,Warung CIhuy,20000,1.9
+63,Makanan,Kwetiau,Berat,,,Gurih,Mie,Telur Ayam,Labtek V A,Warung CIhuy,15000,0.2
+64,Makanan,Mie Goreng,Berat,,,Gurih,Mie,Telur Ayam,Labtek V A,Warung CIhuy,15000,0.7
+65,Minuman,Jus Mangga,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,5
+66,Minuman,Jus Alpukat,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,4.8
+67,Minuman,Jus Buah Naga,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,2.7
+68,Minuman,Jus Jeruk,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,3.7
+69,Minuman,Jus Tomat,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,0.7
+70,Minuman,Jus Melon,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,0.6
+71,Minuman,Jus Apel,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,4.3
+72,Minuman,Jus Wortel,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,4.8
+73,Minuman,Jus Belimbing,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,2
+74,Minuman,Jus Nanas,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,2.9
+75,Minuman,Jus Jambu,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,8000,4.3
+76,Minuman,Jus Strawberry,,,Dingin,Manis,,,Labtek V A,Warung CIhuy,10000,4.8
+77,Makanan,Mie Daging Ayam Jamur,Berat,,,Gurih,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,0.3
+78,Makanan,Mie Daging Ayam Chili Oil,Berat,,,Pedas,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,3.4
+79,Makanan,Mie Daging Ayam Rica,Berat,,,Pedas,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,2.9
+80,Makanan,Mie Baso Yamin,Berat,,,Gurih,Mie,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,17000,4.4
+81,Makanan,Mie Daging Ayam Kuah Kari ,Berat,,,Gurih,Mie,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,17000,4.9
+82,Makanan,Mie Baso Kuah ,Berat,,,Gurih,Mie,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,17000,1.2
+83,Makanan,Gioza,Ringan,Snack Tepung,,Gurih,,Daging Ayam,Labtek III (KOICA),Kantin Bu Dera,15000,0.7
+84,Makanan,Seblak,Berat,,,Gurih,,Telur Ayam,Labtek III (KOICA),Kantin Bu Dera,14000,4.1
+85,Makanan,Cilok Kuah,Ringan,Snack Tepung,,Pedas,,,Labtek III (KOICA),Kantin Bu Dera,10000,4.1
+86,Makanan,Cilok Chili Oil,Ringan,Snack Tepung,,Gurih,,,Labtek III (KOICA),Kantin Bu Dera,10000,2.2
+87,Makanan,Cilok Bumbu Kacang,Ringan,Snack Tepung,,Gurih,,,Labtek III (KOICA),Kantin Bu Dera,10000,2.5
+88,Makanan,Baso Kecil,Ringan,Snack Tepung,,Gurih,,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,10000,2
+89,Makanan,Baso Cincang Besar,Berat,,,Gurih,,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,2000,0.3
+90,Makanan,Mie Kocok,Berat,,,Gurih,Mie,Daging Sapi,Labtek III (KOICA),Kantin Bu Dera,17000,2.9
+91,Makanan,Cuanki,Berat,,,Gurih,,Tahu,Labtek III (KOICA),Kantin Bu Dera,15000,2.1
+92,Makanan,Nasi Goreng Warga,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,20000,4.3
+93,Makanan,Nasi Goreng Hejo,Berat,,,Pedas,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,20000,2.7
+94,Makanan,Nasi Goreng Minang,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,17000,4
+95,Makanan,Nasi Goreng Mawut,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB III,Kantin Warga,20000,3.4
+96,Makanan,Ricebowl (Daging Ayam Mattah),Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,2.9
+97,Makanan,Ricebowl (Daging Ayam Donbori),Berat,,,Asin,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,1.4
+98,Makanan,Ricebowl (Daging Ayam Asam Manis),Berat,,,Manis,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,4.1
+99,Makanan,Ricebowl (Daging Ayam Rica-Rica),Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,22000,0.4
+100,Makanan,Mie Goreng (Daging Ayam Cincang),Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,20000,3.1
+101,Makanan,Mie Goreng (Daging Ayam Katsu),Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,28000,4.3
+102,Makanan,Mie Goreng (Daging Ayam Geprek),Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,28000,1.1
+103,Makanan,Mie Godog,Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kantin Warga,20000,4.6
+104,Makanan,Nasi Soto Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,20000,1.7
+105,Makanan,Nasi Bakar Daging Ayam Kemangi,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,20000,1.8
+106,Makanan,Nasi Daging Ayam Geprek,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kantin Warga,20000,1
+107,Makanan,Donat,Ringan,Snack Tepung,,Manis,,,Asrama TB III,Kantin Warga,4000,2.3
+108,Makanan,Churros,Ringan,Snack Tepung,,Manis,,,Asrama TB III,Kantin Warga,20000,4.4
+109,Makanan,Cookies,Ringan,Snack Tepung,,Manis,,,Asrama TB III,Kantin Warga,22000,4.1
+110,Makanan,Cireng Bumbu Rujak,Ringan,Gorengan,,Pedas,,,Asrama TB III,Kantin Warga,17000,5
+111,Makanan,Batagor Kering,Ringan,Gorengan,,Pedas,,,Asrama TB III,Kantin Warga,17000,5
+112,Makanan,Batagor Kuah,Ringan,Gorengan,,Pedas,,,Asrama TB III,Kantin Warga,17000,3
+113,Makanan,Frenc Fries (Original),Ringan,Gorengan,,Gurih,Kentang,,Asrama TB III,Kantin Warga,13000,1.4
+114,Makanan,Frenc Fries (Bolognaise),Ringan,Gorengan,,Gurih,Kentang,,Asrama TB III,Kantin Warga,20000,4.8
+115,Makanan,Frenc Fries (Cheesel),Ringan,Gorengan,,Gurih,Kentang,,Asrama TB III,Kantin Warga,20000,0.1
+116,Makanan,Frenc Fries (Chicken Katsu),Ringan,Gorengan,,Gurih,Kentang,Daging Ayam,Asrama TB III,Kantin Warga,28000,4.3
+117,Makanan,Curry Samosa,Ringan,Gorengan,,Gurih,,,Asrama TB III,Kantin Warga,20000,1.2
+118,Makanan,Risoles,Ringan,Gorengan,,Gurih,,,Asrama TB III,Kantin Warga,6000,4.9
+119,Minuman,Matcha Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,3.3
+120,Minuman,Thai Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,4
+121,Minuman,Milkshake Vanila,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,3
+122,Minuman,Milkshake Strawberry,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,4.9
+123,Minuman,Ice Matcha Berry,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,22000,4.5
+124,Minuman,Ice Matcha Berry,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,22000,4.3
+125,Minuman,Black Coffee,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,17000,4.7
+126,Minuman,Iced Latte,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,20000,0.2
+127,Minuman,Es Kopi Woles,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,20000,4.4
+128,Minuman,Es Kopi Cenghar,,,Dingin,Pahit,,,Asrama TB III,Kantin Warga,20000,4.8
+129,Minuman,Iced Vanilla Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,4.9
+130,Minuman,Iced Caramel Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,0.3
+131,Minuman,Iced Hazelnut Latte,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,1.7
+132,Minuman,Iced Coffee Lemonade,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,24000,2.2
+133,Minuman,Basic Tea,,,Dingin,Netral,,,Asrama TB III,Kantin Warga,3000,3.5
+134,Minuman,Sweet Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,6000,2.9
+135,Minuman,Lemon Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,12000,4.9
+136,Minuman,Teh Tarik,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,17000,0.5
+137,Minuman,Peach Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,4.2
+138,Minuman,Lyhee Tea,,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,2
+139,Minuman,Smoothies (Strawberry),,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,4.7
+140,Minuman,Smoothies (Creamy Mango),,,Dingin,Manis,,,Asrama TB III,Kantin Warga,20000,0.8
+141,Minuman,Smoothies (Orange),,,Dingin,Manis,,,Asrama TB III,Kantin Warga,16000,4.6
+142,Makanan,Nasi Kuning Telur Ayam Balado,Berat,,,Netral,Nasi,Telur Ayam,Asrama TB III,Kedai Agronic,18000,2
+143,Makanan,Nasi Uduk Telur Ayam Balado,Berat,,,Netral,Nasi,Telur Ayam,Asrama TB III,Kedai Agronic,18000,3.2
+144,Makanan,Nasi Tutug Oncom Komplit,Berat,,,Netral,Nasi,Tahu,Asrama TB III,Kedai Agronic,15000,2.6
+145,Makanan,Nasi Tutug Oncom Daging Ayam Komplit,Berat,,,Netral,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,3.7
+146,Makanan,Nasi Daging Ayam Madu Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.1
+147,Makanan,Nasi Daging Ayam Kremes Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.9
+148,Makanan,Nasi Daging Ayam Garlic Paket Kompilt,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.1
+149,Makanan,Nasi Daging Ayam Ketumbar Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.6
+150,Makanan,Nasi Daging Ayam Sereh Paket Komplit,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.4
+151,Makanan,Nasi Chicken Popcorn,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,3
+152,Makanan,Nasi Kulit Daging Ayam Crispy,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,18000,2.9
+153,Makanan,Nasi Korea (Daging Ayam/Cumi/Udang),Berat,,,Gurih,Nasi,Seafood,Asrama TB III,Kedai Agronic,20000,3.5
+154,Makanan,Chicken Crispy Steak,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,3.4
+155,Makanan,Chicken Steak Saus Mushroom,Berat,,,Netral,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,3.5
+156,Makanan,Chicken Kordon Blue,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,0.1
+157,Makanan,Nasi Sate Taican,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.6
+158,Makanan,Nasi Sate Bumbu Kacang,Berat,,,Netral,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,4.7
+159,Makanan,Mie Goreng Katsu,Berat,,,Gurih,Mie,Daging Ayam,Asrama TB III,Kedai Agronic,20000,2.6
+160,Makanan,Mie Nyemek Special,Berat,,,Gurih,Mie,Telur Ayam,Asrama TB III,Kedai Agronic,17000,2.8
+161,Makanan,Mie Nyemek Seafood,Berat,,,Gurih,Mie,Seafood,Asrama TB III,Kedai Agronic,20000,4.9
+162,Makanan,Mie Nyemek Premium,Berat,,,Gurih,Mie,Seafood,Asrama TB III,Kedai Agronic,22000,4.9
+163,Makanan,Kwetiau Special,Berat,,,Gurih,Mie,Telur Ayam,Asrama TB III,Kedai Agronic,20000,3.8
+164,Makanan,Kwetiau Seafood,Berat,,,Gurih,Mie,Seafood,Asrama TB III,Kedai Agronic,22000,4.5
+165,Makanan,Aneka Gorengan,Ringan,,,Gurih,,,Asrama TB III,Kedai Agronic,2000,4.1
+166,Makanan,Cilok (Bumbu Kacang/Kuah),Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,6000,2.9
+167,Makanan,Pempek (Isi 3),Ringan,,,Asam,,,Asrama TB III,Kedai Agronic,6000,4.7
+168,Makanan,Cirawang Pentol,Ringan,,,Pedas,,,Asrama TB III,Kedai Agronic,6000,4.8
+169,Makanan,Baso Tahu Bandung (Isi 4),Ringan,,,Gurih,,,Asrama TB III,Kedai Agronic,6000,3.7
+170,Makanan,Basreng Daun Jeruk,Ringan,,,Gurih,,,Asrama TB III,Kedai Agronic,6000,4.8
+171,Makanan,French Fries,Ringan,,,Gurih,Kentang,,Asrama TB III,Kedai Agronic,6000,1.2
+172,Makanan,Pisang Selimut,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.4
+173,Makanan,Nasi Soto Daging Ayam Lamongan,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB III,Kedai Agronic,20000,5
+174,Makanan,Nasi Soto Bandung,Berat,,,Gurih,Nasi,Daging Sapi,Asrama TB III,Kedai Agronic,20000,4.9
+175,Minuman,Es Teler Creamy,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,0.1
+176,Minuman,Es Kelapa Muda,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,4.6
+177,Minuman,Es Kelapa Alpukat,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,3.3
+178,Minuman,Es Jeruk,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,3.9
+179,Minuman,Juice Buah Naga,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,3
+180,Minuman,Juice Mulberry,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.6
+181,Minuman,Juice Pisang,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.5
+182,Minuman,Juice Mangga,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.6
+183,Minuman,Juice Strawberry,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,1.5
+184,Minuman,Juice Melon,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.7
+185,Minuman,Juice Alpukat,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.4
+186,Minuman,Juice Tomat,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.7
+187,Minuman,Yoghurt Mulbery,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,3.7
+188,Minuman,Yoghurt Strawberry,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,1.6
+189,Minuman,Yoghurt Buah Naga,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,2
+190,Minuman,Lemon Ice/Hot,Ringan,,,Manis,,,Asrama TB III,Kedai Agronic,10000,4.2
+191,Minuman,Yoghurt Mangga,Ringan,,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,4.6
+192,Minuman,Salad Strawberry Saos Coklat,Ringan,Desert,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,3.7
+193,Minuman,Salad Buah Saus Yoghurt,Ringan,Desert,Dingin,Manis,,,Asrama TB III,Kedai Agronic,10000,4.3
+194,Makanan,Semur Daging Daging Sapi,Berat,,,Manis,Nasi,Daging Sapi,Asrama TB II,Waroeng Soejo,20000,1.7
+195,Makanan,Kari Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.7
+196,Makanan,Chicken Karage,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.7
+197,Makanan,Daging Ayam Goreng,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.1
+198,Makanan,Daging Ayam Pop,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,1.1
+199,Makanan,Daging Ayam Serundeng,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,1
+200,Makanan,Daging Ayam Balado,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,1.5
+201,Makanan,Rica-Rica Daging Ayam,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.1
+202,Makanan,Daging Ayam Bakar Bumbu Padang,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,3.7
+203,Makanan,Daging Ayam Bakar Kecap,Berat,,,Manis,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.1
+204,Makanan,Daging Ayam Bakar Madu,Berat,,,Manis,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.4
+205,Makanan,Daging Ayam Mentega,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,3.7
+206,Makanan,Daging Ayam Teriyaki,Berat,,,Manis,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,1.2
+207,Makanan,Daging Ayam Katsu,Berat,,,Gurih,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,4.4
+208,Makanan,Daging Ayam Lada Hitam,Berat,,,Pedas,Nasi,Daging Ayam,Asrama TB II,Waroeng Soejo,15000,3.2
+209,Makanan,Telur Ayam Balado,Berat,,,Pedas,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,6000,2.3
+210,Makanan,Telur Ayam Dadar,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,6000,4.8
+211,Makanan,Telur Ayam Ceplok,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,6000,2.5
+212,Makanan,Dadar Tahu,Berat,,,Gurih,Nasi,Tahu,Asrama TB II,Waroeng Soejo,8000,2.9
+213,Makanan,Dadar Daging Daging Sapi,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,18000,1.5
+214,Makanan,Dadar Daging Ayam,Berat,,,Gurih,Nasi,Telur Ayam,Asrama TB II,Waroeng Soejo,15000,1.1
+215,Makanan,Sayur Asem,Berat,,,Asam,Sayur,,Asrama TB II,Waroeng Soejo,6000,4.7
+216,Makanan,Sayur Sop,Berat,,,Gurih,Sayur,Daging Ayam,Asrama TB II,Waroeng Soejo,6000,4.7
+217,Makanan,Cah Kangkung,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,3.7
+218,Makanan,Cap Cay,Berat,,,Gurih,Sayur,Daging Ayam,Asrama TB II,Waroeng Soejo,6000,4.4
+219,Makanan,Cah Pokcoy Tahu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,4.9
+220,Makanan,Cah Tauge Tahu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,3.5
+221,Makanan,Tumis Daun Singkong,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,3.8
+222,Makanan,Cah Brokoli,Berat,,,Netral,Sayur,,Asrama TB II,Waroeng Soejo,6000,4.9
+223,Makanan,Cah Kembang Kol,Berat,,,Netral,Sayur,,Asrama TB II,Waroeng Soejo,6000,5
+224,Makanan,Lodeh Daun Singkong,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,0.1
+225,Makanan,Lodeh Tahu Tempe Labu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,0.3
+226,Makanan,Terong Balado,Berat,,,Pedas,Sayur,,Asrama TB II,Waroeng Soejo,6000,2.3
+227,Makanan,Cah Jamur,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,4.1
+228,Makanan,Cah Sawi Hijau Tahu,Berat,,,Gurih,Sayur,Tahu,Asrama TB II,Waroeng Soejo,6000,1
+229,Makanan,Tumis Buncis Wortel,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,0.7
+230,Makanan,Tumis Tempe Kacang Panjang,Berat,,,Gurih,Sayur,Tempe,Asrama TB II,Waroeng Soejo,6000,3.5
+231,Makanan,Kangkung Goreng Crispy,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,1.3
+232,Makanan,Sayur Pecel,Berat,,,Gurih,Sayur,,Asrama TB II,Waroeng Soejo,6000,4.2
+233,Makanan,Oseng Daun Pepaya,Berat,,,Pahit,Sayur,,Asrama TB II,Waroeng Soejo,6000,2.6
+234,Makanan,Nasi Goreng Kencur,Berat,,,Gurih,Kentang,,GKU II,Kanting Rengganis,20000,3.2
+235,Makanan,Nasi Goreng Rendang,Berat,,,Gurih,Kentang,Telur Ayam,GKU II,Kanting Rengganis,20000,1.4
+236,Makanan,Nasi Goreng Kampung,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kanting Rengganis,20000,1.5
+237,Makanan,Nasi Goreng Kari,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kanting Rengganis,20000,0.9
+238,Makanan,Nasi Goreng Mawut,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Kanting Rengganis,20000,2.9
+239,Makanan,Mie Tek-Tek,Berat,,,Gurih,Mie,Telur Ayam,GKU II,Kanting Rengganis,20000,3.8
+240,Makanan,Kwetiaw,Berat,,,Gurih,Mie,Telur Ayam,GKU II,Kanting Rengganis,20000,0.3
+241,Makanan,Nasi Rawon,Berat,,,Manis,Nasi,Daging Sapi,GKU II,Kanting Rengganis,20000,2
+242,Makanan,Nasi + Sate Taichan,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,4
+243,Makanan,Nasi + Sate Kacang,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,2.6
+244,Makanan,Nasi + Daging Ayam Bumbu Hitam,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,3.9
+245,Makanan,Nasi + Daging Ayam Sambal Bakar,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,2.7
+246,Makanan,Nasi + Telor Dadar Kuah Gule,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kantin Sate Madu,15000,4.2
+247,Makanan,Nasi + Soto Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,4
+248,Makanan,Nasi + Soto Daging Sapi,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Kantin Sate Madu,18000,4.5
+249,Makanan,Nasi + Tongseng Daging Ayam,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Kantin Sate Madu,18000,4.8
+250,Makanan,Nasi + Tongseng Daging Sapi,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Sate Madu,18000,1.8
+251,Makanan,Nasi Bakar Komplit,Berat,,,Manis,Nasi,Daging Sapi,GKU II,Lentera Moza,20000,2.6
+252,Makanan,Bakmi Yamin Manis/Asin,Berat,,,Manis,Mie,Daging Sapi,GKU II,Lentera Moza,18000,4.8
+253,Makanan,Dimsum Kuah Creamy,Ringan,,,Gurih,,,GKU II,Lentera Moza,20000,2.1
+254,Makanan,Dimsum,Ringan,,,Gurih,,,GKU II,Lentera Moza,13000,4.2
+255,Makanan,Spaghetti Lumer,Berat,,,Gurih,Mie,Daging Ayam,GKU II,Lentera Moza,15000,4.8
+256,Makanan,Pempek,Berat,,,Asam,Nasi,Daging Ayam,GKU II,Lentera Moza,12000,4.3
+257,Makanan,Lumpia Biasa,Berat,,,Manis,Sayur,Telur Ayam,GKU II,Lentera Moza,12000,4.2
+258,Makanan,Lumpia Spesial,Berat,,,Manis,Sayur,Telur Ayam,GKU II,Lentera Moza,15000,4.3
+259,Makanan,Baso Tahu Endolita,Berat,,,Gurih,,Tahu,GKU II,Lentera Moza,12000,4.9
+260,Makanan,Pisang Keju Biasa,Ringan,,,Manis,,,GKU II,Lentera Moza,12000,1.6
+261,Makanan,Pisang Keju Jumbo,Ringan,,,Manis,,,GKU II,Lentera Moza,15000,4.1
+262,Makanan,Rice Bowl,Berat,,,Gurih,Mie,Daging Ayam,GKU II,Lentera Moza,15000,1.5
+263,Makanan,Spageti Cincang Daging Ayam + Sosis Lumer,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Lentera Moza,15000,4.7
+264,Makanan,Mie Bakso,Berat,,,Gurih,Mie,Daging Sapi,GKU II,Kantin Toony,15000,3.2
+265,Makanan,Mie Daging Ayam,Berat,,,Gurih,Mie,Daging Ayam,GKU II,Kantin Toony,15000,1
+266,Makanan,Mie Daging Ayam Bakso (kecil),Berat,,,Gurih,Mie,Daging Ayam,GKU II,Kantin Toony,20000,4.3
+267,Makanan,Mie Daging Ayam Bakso (besar),Berat,,,Gurih,Mie,Daging Ayam,GKU II,Kantin Toony,25000,1.5
+268,Makanan,Indomie Goreng,Berat,,,Manis,Mie,,GKU II,Kantin Toony,8000,4.9
+269,Makanan,Indomie Kuah,Berat,,,Gurih,Mie,,GKU II,Kantin Toony,8000,3.1
+270,Makanan,Indomie + Telur Ayam,Berat,,,Gurih,Mie,Telur Ayam,GKU II,Kantin Toony,12000,3.9
+271,Makanan,Batagor Bumbu Kacang,Ringan,,,Manis,,,GKU II,Kantin Toony,12000,1.9
+272,Makanan,Batagor Kuah,Ringan,,,Gurih,,,GKU II,Kantin Toony,12000,3.6
+273,Makanan,Cilok Goang,Ringan,,,Pedas,,,GKU II,Kantin Toony,12000,4.4
+274,Makanan,Cilok Kuah,Ringan,,,Gurih,,,GKU II,Kantin Toony,12000,3.1
+275,Makanan,Basreng,Ringan,,,Gurih,,,GKU II,Kantin Toony,10000,0.4
+276,Makanan,Pangsit Kuah,Ringan,,,Gurih,,,GKU II,Kantin Toony,12000,4.3
+277,Makanan,Seblak,Ringan,,,Manis,,,GKU II,Kantin Toony,12000,4.8
+278,Makanan,Dimsum,Ringan,,,Asam,,,GKU II,Kantin Toony,12000,4.8
+279,Makanan,Wongton,Ringan,,,Asam,,,GKU II,Kantin Toony,12000,2.9
+280,Makanan,Pop Mie,Ringan,,,Asam,,,GKU II,Kantin Toony,10000,4.9
+281,Makanan,Chicken Katsu,Berat,,,Gurih,,Daging Ayam,GKU II,Krenzz Fried Chicken,12000,2.7
+282,Makanan,Chicken Katsu + Nasi,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,4.4
+283,Makanan,Dadar Nasi Sambal,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,12000,3.5
+284,Makanan,Dadar Nasi Sambal Oseng Cumi,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,18000,1.3
+285,Makanan,Dadar Nasi Sambal Daging Ayam Suwir,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,18000,4.1
+286,Makanan,Dadar Nasi Sambal Ati Ampela,Berat,,,Pedas,Nasi,Telur Ayam,GKU II,Krenzz Fried Chicken,18000,1.9
+287,Makanan,Daging Ayam Geprek Dada + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,2.8
+288,Makanan,Daging Ayam Geprek Paha Atas + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,0.4
+289,Makanan,Daging Ayam Geprek Sayap + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,3.2
+290,Makanan,Daging Ayam Geprek Paha Bawah + Nasi,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,4.5
+291,Makanan,Chicken Sambal,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,4.6
+292,Makanan,Chicken Dada,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,14000,5
+293,Makanan,Chicken Paha Atas,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,14000,2.4
+294,Makanan,Chicken + Nasi,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,4.7
+295,Makanan,Chicken Taliwang,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,3.5
+296,Makanan,Chicken Pedas,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,2.8
+297,Makanan,Chicken Sweet Chili,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,4.7
+298,Makanan,Chicken Black Pepper,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,0.4
+299,Makanan,Krenz Nasi Indo Beef,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Krenzz Fried Chicken,18000,1.5
+300,Makanan,Krenz Nasi Indo Chicken,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,2.8
+301,Makanan,Krenz Nasi Indo Katsu,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,16000,0.7
+302,Makanan,Krenz Nasi Teri,Berat,,,Gurih,Nasi,Seafood,GKU II,Krenzz Fried Chicken,12000,3.3
+303,Makanan,Spageti Original,Berat,,,Gurih,Mie,,GKU II,Krenzz Fried Chicken,10000,4
+304,Makanan,Spageti Tofu,Berat,,,Netral,Mie,Tahu,GKU II,Krenzz Fried Chicken,12000,4
+305,Makanan,Spageti + Chicken,Berat,,,Netral,Mie,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,3.9
+306,Makanan,Rice Bowl Chicken,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,17000,3.7
+307,Makanan,Rice Bowl Beef,Berat,,,Gurih,Nasi,Daging Sapi,GKU II,Krenzz Fried Chicken,20000,5
+308,Makanan,Rice Bowl Chicken Tofu,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,18000,0.7
+309,Makanan,Nashville Hot Chicken,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,20000,4.4
+310,Makanan,Chicken Steak,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,20000,1.1
+311,Makanan,Kebab Chicken & Beef,Berat,,,Pedas,Olahan Tepung,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,4.6
+312,Makanan,Burger Chicken & Beef,Berat,,,Pedas,Olahan Tepung,Daging Ayam,GKU II,Krenzz Fried Chicken,15000,0
+313,Makanan,Rice Bowl Chicken,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,17000,2.7
+314,Makanan,Nasi Kepal Chicken Slice,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,10000,4.7
+315,Makanan,Chicken Sauce with Mozarella Cheese,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Krenzz Fried Chicken,20000,3.8
+316,Makanan,Nasi Soto Daging Ayam,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Bagas,12000,3
+317,Makanan,Nasi Telur Ayam Gimbal,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kantin Bagas,10000,2.9
+318,Makanan,Nasi Telur Ayam Gimbal Daging Ayam Suwir,Berat,,,Gurih,Nasi,Telur Ayam,GKU II,Kantin Bagas,15000,0.6
+319,Makanan,Nasi Telur Ayam Gimbal Cakalang,Berat,,,Gurih,Nasi,Seafood,GKU II,Kantin Bagas,15000,4.8
+320,Makanan,Nasi Telur Ayam Gimbal Cumi Pedas,Berat,,,Gurih,Nasi,Seafood,GKU II,Kantin Bagas,15000,0.5
+321,Makanan,Nasi Daging Ayam Kipas,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Bagas,15000,2.9
+322,Makanan,Nasi Daging Ayam Lada Garam,Berat,,,Pedas,Nasi,Daging Ayam,GKU II,Kantin Bagas,15000,0.3
+323,Makanan,Nasi Daging Ayam Wijen,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Kantin Bagas,15000,3
+324,Makanan,Nasi Daging Ayam Krisbar,Berat,,,Manis,Nasi,Daging Ayam,GKU II,Kantin Bagas,17000,4.1
+325,Makanan,Nasi Cokot Daging Ayam Suwir,Berat,,,Gurih,Nasi,Daging Ayam,GKU II,Kantin Bagas,12000,4.5
+326,Makanan,Nasi Cokot Cakalang,Berat,,,Gurih,Nasi,Seafood,GKU II,Kantin Bagas,12000,5
+327,Makanan,Nasi Cokot Cumi Pedas,Berat,,,Pedas,Nasi,Seafood,GKU II,Kantin Bagas,12000,4
+328,Minuman,Hot Kopi Gula Aren,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,4.6
+329,Minuman,Ice Kopi Gula Aren,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,4.7
+330,Minuman,Hot Americano,Ringan,,Dingin,Pahit,,,GKU II,Jump/Start,13400,4.4
+331,Minuman,Ice Americano,Ringan,,Dingin,Pahit,,,GKU II,Jump/Start,13400,3.2
+332,Minuman,Hot Cappuccino,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,4.1
+333,Minuman,Ice Cappuccino,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,3.5
+334,Minuman,Hot Kopi Hitam,Ringan,,Panas,Pahit,,,GKU II,Jump/Start,8400,1.9
+335,Minuman,Ice Kopi Hitam,Ringan,,Dingin,Pahit,,,GKU II,Jump/Start,8400,2.2
+336,Minuman,Hot Kopi Susu,Ringan,,Panas,Manis,,,GKU II,Jump/Start,8400,1.4
+337,Minuman,Ice Kopi Susu,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,8400,1.8
+338,Minuman,Hot Cafe Latte,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,3.4
+339,Minuman,Ice Cafe Latte,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,3.8
+340,Minuman,Hot Cafe Mocha,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,4.8
+341,Minuman,Ice Cafe Mocha,Ringan,,Dingin,Manis,,,GKU II,Jump/Start,13400,4.2
+342,Minuman,Hot Piccolo Latte,Ringan,,Panas,Manis,,,GKU II,Jump/Start,13400,3.8
+343,Minuman,Espresso,Ringan,,Netral,Pahit,,,GKU II,Jump/Start,10400,0.7
+344,Minuman,Jus Apel,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,3.7
+345,Minuman,Jus Mangga,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,2.3
+346,Minuman,Jus Wortel,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,5
+347,Minuman,Jus Jeruk,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,2.3
+348,Minuman,Jus Pisang,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,1.1
+349,Minuman,Jus Alpukat,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,3.4
+350,Minuman,Jus Jambu,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,1.7
+351,Minuman,Jus Melon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,1.7
+352,Minuman,Jus Lemon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,2.6
+353,Minuman,Jus Pepaya,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,3.9
+354,Minuman,Jus Nanas,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,1.5
+355,Minuman,Jus Belimbing,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,4.7
+356,Minuman,Jus Buah Naga,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,1.2
+357,Minuman,Jus Strawberry,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,12000,4.8
+358,Minuman,Jus Sirsak,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.5
+359,Minuman,Jus Semangka,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,2.9
+360,Minuman,Jus Tomat,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,8000,2.9
+361,Minuman,Mix Juice 2 Varian,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,15000,0.3
+362,Minuman,Mix Juice 3 Varian,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,3.4
+363,Minuman,Pisang Ijo Melon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.2
+364,Minuman,Pisang Ijo Strawberry,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.9
+365,Minuman,Pisang Ijo Coco Pandan,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.7
+366,Minuman,Mojito Sirup Lyche,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.2
+367,Minuman,Mojito Sirup Melon,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.1
+368,Minuman,Mojito Sirup Strawberry,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.2
+369,Minuman,Mojito Sirup Jeruk,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.1
+370,Minuman,Susu Soda,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,10000,4.4
+371,Minuman,Espresso,Ringan,,Netral,Pahit,,,GKU II,Kedai Hijau,7000,4.3
+372,Minuman,Flat White,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,15000,4.4
+373,Minuman,Japanese,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,20000,0.9
+374,Minuman,Filter V60,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,20000,3.3
+375,Minuman,Affogato,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,15000,4.8
+376,Minuman,Kopi Susu Gula Aren,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,2.3
+377,Minuman,Machiato Caramel,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,4.4
+378,Minuman,Berry Latte,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,1.8
+379,Minuman,Orange Coffee,Ringan,,Netral,Manis,,,GKU II,Kedai Hijau,18000,3.2
+380,Minuman,Mocha (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,1.5
+381,Minuman,Mocha (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,3.9
+382,Minuman,Cappuccino (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,3.2
+383,Minuman,Cappuccino (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,1
+384,Minuman,Latte (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,0.4
+385,Minuman,Latte (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,5
+386,Minuman,Long Black (Hot),Ringan,,Panas,Pahit,,,GKU II,Kedai Hijau,15000,4.8
+387,Minuman,Long Black (Iced),Ringan,,Dingin,Pahit,,,GKU II,Kedai Hijau,17000,1.8
+388,Minuman,Matcha (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,0.3
+389,Minuman,Matcha (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,4.3
+390,Minuman,Coklatt (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,1.1
+391,Minuman,Coklatt (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,3.5
+392,Minuman,Redvelvet (Hot),Ringan,,Panas,Manis,,,GKU II,Kedai Hijau,15000,1.2
+393,Minuman,Redvelvet (Iced),Ringan,,Dingin,Manis,,,GKU II,Kedai Hijau,17000,0.4
+394,Minuman,Hot Coffee,,,Panas,Pahit,,,GKU 3,KOTA,15000,2.4
+395,Minuman,Classic Crush,,,Dingin,Manis,,,GKU 3,KOTA,20000,4.1
+396,Minuman,Hot Coffee + Brownies,,,Panas,Pahit,,,GKU 3,KOTA,30000,4.9
+397,Minuman,Palm Crush,,,Dingin,Manis,,,GKU 3,KOTA,25000,3.6
+398,Minuman,Doppio Iced Shaken,,,Dingin,Manis,,,GKU 3,KOTA,30000,0.6
+399,Minuman,Malmo,,,Dingin,Manis,,,GKU 3,KOTA,28000,4.3
+400,Minuman,Vancouver,,,Dingin,Manis,,,GKU 3,KOTA,30000,4.6
+401,Minuman,Paris,,,Dingin,Manis,,,GKU 3,KOTA,28000,4.6
+402,Minuman,Espresso (Coffee),,,Panas,Manis,,,GKU 3,KOTA,18000,3.8
+403,Minuman,Black (Coffee),,,Panas,Pahit,,,GKU 3,KOTA,23000,5
+404,Minuman,White (Coffee),,,Panas,Pahit,,,GKU 3,KOTA,28000,0.7
+405,Minuman,Lychee Tea,,,Dingin,Pahit,,,GKU 3,KOTA,25000,0.4
+406,Minuman,Chocolate,,,Dingin,Manis,,,GKU 3,KOTA,28000,4.5
+407,Minuman,Matcha,,,Dingin,Manis,,,GKU 3,KOTA,30000,4.4
+408,Minuman,Mineral Water,,,Dingin,Netral,,,GKU 3,KOTA,5000,2.1
